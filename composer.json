@@ -1,0 +1,17 @@
+{
+    "name": "zhana0/umpay",
+    "description": "um pay class",
+    "authors": [
+        {
+            "name": "zhana0",
+            "email": "zn19900604@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"Ump\\":"src/"
+    	},
+        "classmap":["src/api/"]
+    }
+}
