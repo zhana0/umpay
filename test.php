@@ -11,4 +11,4 @@ $ump->set_order_amount(1);
 //设置商品名称（扫码支付必填）
 $ump->set_goods_inf('测试商品');
 //生成支付链接，并跳转
-header("Location://" . $ump->get_request_url());
+header("Location:" . $ump->get_request_url());
