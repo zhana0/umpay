@@ -16,6 +16,5 @@
     		"Ump\\":"src/"
     	},
         "classmap":["src/api/"]
-    },
-   "minimum-stability": "stable"
+    }
 }
