@@ -1,7 +1,0 @@
-[2017-11-17 12:11:35]-[]-[data] :Request platform service=req_front_page_pay
-[2017-11-17 12:11:35]-[]-[data] :Participate in the signature parameters：[amt_type=RMB&charset=UTF-8&interface_type=01&mer_id=50428&notify_url=http://home/pay/notify_url&pay_type=B2CDEBITBANK&res_format=HTML&ret_url=http://home/pay/ret_url&service=req_front_page_pay&version=4.0],Merchant number is：[50428]
-[2017-11-17 12:11:35]-[]-[data] :The private key path for：/home/zhana0/composer_package/umpay/src/api/cert/****.key.pem
-[2017-11-17 12:11:35]-[]-[data] :Request platform way=get
-[2017-11-17 12:11:35]-[]-[data] :Request platform signature string=
-[2017-11-17 12:11:35]-[]-[data] :Clear information request platform=amt_type=RMB&charset=UTF-8&interface_type=01&mer_id=50428&notify_url=http://home/pay/notify_url&pay_type=B2CDEBITBANK&res_format=HTML&ret_url=http://home/pay/ret_url&service=req_front_page_pay&version=4.0
-[2017-11-17 12:11:35]-[]-[data] :The service req_front_page_pay request platform to get the address url=http://pay.soopay.net/spay/pay/payservice.do?amt_type=RMB&charset=UTF-8&interface_type=01&mer_id=50428&notify_url=http%3A%2F%2Fhome%2Fpay%2Fnotify_url&pay_type=B2CDEBITBANK&res_format=HTML&ret_url=http%3A%2F%2Fhome%2Fpay%2Fret_url&service=req_front_page_pay&sign_type=RSA&version=4.0&sign=
