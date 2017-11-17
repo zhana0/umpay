@@ -3,7 +3,7 @@ require __DIR__ .'/vendor/autoload.php';
 use Ump\Umpay;
 $ump = new Umpay();
 //设置订单号
-$ump->set_order_id(data('Ymd',time()).unique());
+$ump->set_order_id(date('Ymd',time()).uniqid());
 //设置订单日期
 $ump->set_mer_date(time());
 //设置订单金额
