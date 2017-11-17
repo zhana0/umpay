@@ -1,6 +1,7 @@
 {
     "name": "zhana0/umpay",
     "description": "联动支付第三方支付类",
+    "license": "MIT",
     "authors": [
         {
             "name": "zhana0",
@@ -15,5 +16,6 @@
     		"Ump\\":"src/"
     	},
         "classmap":["src/api/"]
-    }
+    },
+   "minimum-stability": "stable"
 }
